@@ -1,0 +1,1 @@
+executar_periodicamente();
